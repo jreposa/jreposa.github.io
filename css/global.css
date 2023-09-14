@@ -1,0 +1,127 @@
+.container-fluid {max-width:1140px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+        h1 {
+            margin: 0 0 20px;
+            padding: 0;
+            line-height: 100%;
+        }
+
+ /*       .maintable {
+
+            overflow: scroll;
+            border: 1px solid #6f6f6f;
+        }
+*/
+            .maintable table {
+                border-spacing: 0;
+
+            }
+
+            .maintable th {
+
+                top: 0;
+                padding: 6px;
+                 border: 1px solid #c3c3c3;
+                font-weight: normal;
+            }
+
+
+.maintable tr,.maintable td, .maintable th{vertical-align:middle}
+            .maintable td {
+                padding: 6px;
+                border: 1px solid #c3c3c3;
+            }
+
+             /*   .maintable th:nth-child(1),
+                .maintable td:nth-child(1) {
+                    position: sticky;
+                    left: 0;
+                    width: 120px;
+                    min-width: 130px;
+                }
+                */
+
+
+                .maintable td:nth-child(1),
+                .maintable td:nth-child(2) {
+
+                    z-index: 200;
+                }
+
+
+
+.noOutline {border-left:none!important;
+	border-right:none!important;
+}
+
+
+@media (max-width: 575px) {
+.outline-right {border-right: 1px solid #c3c3c3!important;}
+}
+
+.noOutline:last-child {border-right: 1px solid #c3c3c3!important;}
+            .maintable th:nth-child(1),
+            .maintable th:nth-child(2) {
+                z-index: 300;
+            }
+
+            .navbar > .container, .navbar > .container-fluid, .navbar > .container-sm, .navbar > .container-md, .navbar > .container-lg, .navbar > .container-xl, .navbar > .container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+tbody {border-right: 1px solid #c3c3c3!important;}
+
+
+ .betterMonth::after{ color:green; text-align:left;   font-family: "fontawesome";content: "\f271" }
+
+.betterAll:after {color:blue;  text-align:right;    font-family: "fontawesome"; content: "\f055"
+}
+.both {color:teal;}
+@media (max-width: 575px) {
+.navbar-brand img {height:40px;}
+}
+
+@media (max-width: 575px) {
+table {font-size: 14px }
+th.colAll { width:5%!important;}
+th.colLabel { width:120px!important;margin:0;}
+ .maintable th {
+
+                top: 0;
+                padding: 3px
+}
+
+.footnote {margin:0}
+}
+
+
+.login-box  {border-radius: 4px;
+    border-top: 10px solid #168be2;
+    -webkit-box-shadow: 0 0 7px 0 #AAA;
+    -moz-box-shadow: 0 0 7px 0 #AAA;
+    box-shadow: 0 0 7px 0 #AAA;
+    padding: 0 10px 10px 10px;
+    margin-bottom: 15px;
+    background-color: #fff;
+    font-size: 16px;}
+
+
+
+@media (max-width: 567px) {
+  .hidden-mobile {
+    display: none;
+  }
+
+
+.nav-item .nav-link {
+	font-size:.80em;
+}
+}
+
