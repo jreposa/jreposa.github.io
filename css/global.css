@@ -121,7 +121,12 @@ th.colLabel { width:120px!important;margin:0;}
 
 
 .nav-item .nav-link {
-	font-size:.80em;
+	font-size:.75em;
 }
 }
 
+.defs { 
+    background-color: #ecedee;
+    padding: 5px;
+    margin-top:20px;
+}
