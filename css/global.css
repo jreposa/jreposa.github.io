@@ -113,20 +113,18 @@ th.colLabel { width:120px!important;margin:0;}
     font-size: 16px;}
 
 
+.defs { 
+        background-color: #ecedee;
+        padding: 5px;
+        margin-top:20px;
+    }
 
 @media (max-width: 567px) {
   .hidden-mobile {
     display: none;
   }
-
-
 .nav-item .nav-link {
 	font-size:.75em;
 }
 }
 
-.defs { 
-    background-color: #ecedee;
-    padding: 5px;
-    margin-top:20px;
-}
