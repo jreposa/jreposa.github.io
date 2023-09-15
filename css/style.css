@@ -1,3 +1,10 @@
+
+ 
+.btn-primary,.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #168be2;;
+}
+
+
 .container-fluid {max-width:1140px;
 	margin-left: auto;
 	margin-right: auto;
@@ -79,10 +86,12 @@
 tbody {border-right: 1px solid #c3c3c3!important;}
 
 
- .betterMonth::after{ color:green; text-align:left;   font-family: "fontawesome";content: "\f271" }
+ .betterMonth::after{ color: #2E78D2; text-align:left;   font-family: "fontawesome";content: "\f271" }
 
-.betterAll:after {color:blue;  text-align:right;    font-family: "fontawesome"; content: "\f055"
+.betterAll:after {color:#205493;  text-align:right;    font-family: "fontawesome"; content: "\f055"
 }
+
+.alertIcon:after {color:#FF7043;  text-align:right;    font-family: "fontawesome"; content: "\f071"}
 .both {color:teal;}
 @media (max-width: 575px) {
 .navbar-brand img {height:40px;}
