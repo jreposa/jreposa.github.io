@@ -52,12 +52,12 @@
       </div>
     </div>
 
-     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-5" id="mainNav">
+     <nav class="navbar navbar-expand-lg border-bottom border-5 mb-5" id="mainNav">
       <div class="container px-2">
         <a
           href="/"
           class="navbar-brand d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-          <img src="es_coach_header.png" class="pe-2" alt="ES-COACH Logo" />
+          <img src="es_coach_header.png" class="pe-2 img-fluid" alt="ES-COACH Logo" />
           <span class="visually-hidden" style="width: 10rem">ES-Coach</span>
         </a>
 
@@ -87,56 +87,22 @@
             </li>
 
              <li class="nav-item">
-              <a class="nav-link menu" href="#">Log In</a>
+              <a class="nav-link menu text-nowrap " href="#">Log In</a>
             </li>
              <li class="nav-item">
-              <a class="nav-link menu" href="#">Sign Up</a>
+              <a class="nav-link menu text-nowrap " href="#">Sign Up</a>
             </li>
              <li class="nav-item">
-              <a class="nav-link menu" href="#">Privacy Policy</a>
+              <a class="nav-link menu text-nowrap " href="#">Privacy Policy</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
 
-    <div class="container px-2">
-
+     <div class="container px-2">
       <div class="row">
-
-        <div class="col-md-2 col-sm-12">
-
-          <section id="block-user-login" class="login-box block block-user clearfix">
-
-            <h3 class="block-title">User login</h3>
-
-            <form action="/about/tpsid/information-for-tpsid-grantees?destination=node/4590" method="post" id="user-login-form" accept-charset="UTF-8">
-              <div>
-                <div class="form-type-textfield form-item-name form-item form-group">
-                  <label class="control-label" for="edit-name">E-mail or username <span class="form-required" title="This field is required.">*</span></label>
-                  <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60">
-                </div>
-                <div class="form-type-password form-item-pass form-item form-group">
-                  <label class="control-label" for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
-                  <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128">
-                </div>
-                <ul>
-                  <li>
-                    <a href="/user/password" title="Request new password via e-mail.">Request new password</a>
-                  </li>
-                </ul><input type="hidden" name="form_build_id" value="form-G7qP194kS7ErkStWk6rHFcFAGh1ce_gHMLQ3FunSLS4">
-                <input type="hidden" name="form_id" value="user_login_block">
-                <div class="form-actions form-wrapper form-group" id="edit-actions">
-                  <button class="btn-primary btn form-submit icon-before" type="submit" id="edit-submit" name="op" value="Log in">
-                    <span class="icon glyphicon glyphicon-log-in" aria-hidden="true"></span>
- Log in</button>
-                </div>
-              </div>
-            </form>
-          </section>
-        </div>
-
-        <div class="col-md-10 col-sm-12">
+        <div class="col-12">
 
           <!-- Nav tabs -->
            <ul class="p-2 nav nav-pills bg-light" id="floatingTab" role="tablist">
@@ -151,6 +117,9 @@
             </li>
           </ul>
 
+<div class="alert alert-info mt-4" role="alert">
+  You must <a href="#">sign in</a> to see your your data.
+</div>
           <!-- Tab panes -->
           <div class="tab-content">
             <div class="tab-pane active" id="activities" role="tabpanel" aria-labelledby="activities-tab">

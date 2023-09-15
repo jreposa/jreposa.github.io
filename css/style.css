@@ -137,3 +137,7 @@ th.colLabel { width:120px!important;margin:0;}
 }
 }
 
+.menu.nav-link:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.375em!important;
+}
