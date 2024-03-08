@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ProjectsbyCountry</name>
+    <Style id="poly-000000-1200-76-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-1200-76-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Afghanistan</name>
+      <description><![CDATA[Project Name: Advancing Higher Education for Afghanistan’s Development (AHEAD) Study<br>Project Goals: - Build capacity of higher education institutions<br>- Increase access to higher education for underrepresented populations, such as women and persons with disabilities <br>Project Link: https://www.umass.edu/cie/our-work/advancing-higher-education-afghanistan%E2%80%99s-development-2021-2025-0<br>Partners:  Afghanistan Ministry of Higher Education<br>Project Activity: - Conduct a needs assessment of faculty research training, knowledge, skills, and capacity based on focus groups with education faculty from seven Afghan universities<br>- Create bi-lingual (English/Dari) training for faculty on applied education research<br>- Develop a model Research Grants Manual for the Ministry of Higher Education about key components of the grantmaking life cycle<br>- Draft a Research and Academic Regulations document<br>Funders: US Agency for International Development<br>Project Years: 2020–2022<br>Contract: <br>Latitude: 33.939<br>Longitude: 67.71<br>Geocode: af_kab]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Project Name">
+          <value>Advancing Higher Education for Afghanistan’s Development (AHEAD) Study</value>
+        </Data>
+        <Data name="Project Goals">
+          <value>- Build capacity of higher education institutions
+- Increase access to higher education for underrepresented populations, such as women and persons with disabilities </value>
+        </Data>
+        <Data name="Project Link">
+          <value>https://www.umass.edu/cie/our-work/advancing-higher-education-afghanistan%E2%80%99s-development-2021-2025-0</value>
+        </Data>
+        <Data name="Partners">
+          <value> Afghanistan Ministry of Higher Education</value>
+        </Data>
+        <Data name="Project Activity">
+          <value>- Conduct a needs assessment of faculty research training, knowledge, skills, and capacity based on focus groups with education faculty from seven Afghan universities
+- Create bi-lingual (English/Dari) training for faculty on applied education research
+- Develop a model Research Grants Manual for the Ministry of Higher Education about key components of the grantmaking life cycle
+- Draft a Research and Academic Regulations document</value>
+        </Data>
+        <Data name="Funders">
+          <value>US Agency for International Development</value>
+        </Data>
+        <Data name="Project Years">
+          <value>2020–2022</value>
+        </Data>
+        <Data name="Contract">
+          <value/>
+        </Data>
+        <Data name="Latitude">
+          <value>33.93911</value>
+        </Data>
+        <Data name="Longitude">
+          <value>67.709953</value>
+        </Data>
+        <Data name="Geocode">
+          <value>af_kab</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              61.210817,35.650072,0
+              60.803193,34.404102,0
+              60.52843,33.676446,0
+              60.9637,33.528832,0
+              60.536078,32.981269,0
+              60.863655,32.18292,0
+              60.941945,31.548075,0
+              61.699314,31.379506,0
+              61.781222,30.73585,0
+              60.874248,29.829239,0
+              62.549857,29.318572,0
+              63.550261,29.468331,0
+              64.148002,29.340819,0
+              64.350419,29.560031,0
+              65.046862,29.472181,0
+              66.346473,29.887943,0
+              66.381458,30.738899,0
+              66.938891,31.304911,0
+              67.683394,31.303154,0
+              67.792689,31.58293,0
+              68.556932,31.71331,0
+              68.926677,31.620189,0
+              69.317764,31.901412,0
+              69.262522,32.501944,0
+              69.687147,33.105499,0
+              70.323594,33.358533,0
+              69.930543,34.02012,0
+              70.881803,33.988856,0
+              71.156773,34.348911,0
+              71.115019,34.733126,0
+              71.613076,35.153203,0
+              71.498768,35.650563,0
+              71.262348,36.074388,0
+              71.846292,36.509942,0
+              72.920025,36.720007,0
+              74.067552,36.836176,0
+              74.575893,37.020841,0
+              75.158028,37.133031,0
+              74.980002,37.41999,0
+              73.948696,37.421566,0
+              73.260056,37.495257,0
+              72.63689,37.047558,0
+              72.193041,36.948288,0
+              71.844638,36.738171,0
+              71.448693,37.065645,0
+              71.541918,37.905774,0
+              71.239404,37.953265,0
+              71.348131,38.258905,0
+              70.806821,38.486282,0
+              70.376304,38.138396,0
+              70.270574,37.735165,0
+              70.116578,37.588223,0
+              69.518785,37.608997,0
+              69.196273,37.151144,0
+              68.859446,37.344336,0
+              68.135562,37.023115,0
+              67.83,37.144994,0
+              67.075782,37.356144,0
+              66.518607,37.362784,0
+              66.217385,37.39379,0
+              65.745631,37.661164,0
+              65.588948,37.305217,0
+              64.746105,37.111818,0
+              64.546479,36.312073,0
+              63.982896,36.007957,0
+              63.193538,35.857166,0
+              62.984662,35.404041,0
+              62.230651,35.270664,0
+              61.210817,35.650072,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Australia</name>
+      <description><![CDATA[Project Name: Transition Leadership Program & I’m Determined Project<br>Project Goals: Support educators, advocates and students with disabilities<br>through direct instruction, models, and opportunities to practice skills<br>associated with self-determined behavior<br>Project Link: https://thinkcollege.net/projects/transition-leadership-project<br>Partners: Kerry Watson, Senior Inclusion Manager, Council for Intellectual<br>Disability; Dr. John McNaught, James Madison University.<br>Project Activity: - Match Kerry Watson with mentor Dr. McNaught to support her in her<br>efforts to engage disability self-advocates and disability and education<br>professionals in Australia to promote self-determination as a step<br>toward more inclusive postsecondary education and employment<br>Funders: <br>Project Years: <br>Contract: <br>Latitude: -25.274<br>Longitude: 133.775<br>Geocode: au_sy]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Project Name">
+          <value><![CDATA[Transition Leadership Program & I’m Determined Project]]></value>
+        </Data>
+        <Data name="Project Goals">
+          <value>Support educators, advocates and students with disabilities
+through direct instruction, models, and opportunities to practice skills
+associated with self-determined behavior</value>
+        </Data>
+        <Data name="Project Link">
+          <value>https://thinkcollege.net/projects/transition-leadership-project</value>
+        </Data>
+        <Data name="Partners">
+          <value>Kerry Watson, Senior Inclusion Manager, Council for Intellectual
+Disability; Dr. John McNaught, James Madison University.</value>
+        </Data>
+        <Data name="Project Activity">
+          <value>- Match Kerry Watson with mentor Dr. McNaught to support her in her
+efforts to engage disability self-advocates and disability and education
+professionals in Australia to promote self-determination as a step
+toward more inclusive postsecondary education and employment</value>
+        </Data>
+        <Data name="Funders">
+          <value/>
+        </Data>
+        <Data name="Project Years">
+          <value/>
+        </Data>
+        <Data name="Contract">
+          <value/>
+        </Data>
+        <Data name="Latitude">
+          <value>-25.274398</value>
+        </Data>
+        <Data name="Longitude">
+          <value>133.775136</value>
+        </Data>
+        <Data name="Geocode">
+          <value>au_sy</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                145.397978,-40.792549,0
+                144.743755,-40.703975,0
+                144.718071,-41.162552,0
+                145.29509,-42.03361,0
+                145.43193,-42.693776,0
+                146.048378,-43.549745,0
+                146.663327,-43.580854,0
+                146.870343,-43.634597,0
+                147.564564,-42.937689,0
+                147.914052,-43.211522,0
+                148.017301,-42.407024,0
+                148.359865,-42.062445,0
+                148.289068,-40.875438,0
+                147.689259,-40.808258,0
+                146.908584,-41.000546,0
+                146.364121,-41.137695,0
+                145.397978,-40.792549,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                143.561811,-13.763656,0
+                143.522124,-12.834358,0
+                143.158632,-12.325656,0
+                143.115947,-11.90563,0
+                142.866763,-11.784707,0
+                142.79731,-11.157355,0
+                142.51526,-10.668186,0
+                142.143706,-11.042737,0
+                142.118488,-11.328042,0
+                141.68699,-12.407614,0
+                141.842691,-12.741548,0
+                141.65092,-12.944688,0
+                141.519869,-13.698078,0
+                141.63552,-14.270395,0
+                141.56338,-14.561333,0
+                141.702183,-15.044921,0
+                141.398222,-15.840532,0
+                141.274095,-16.38887,0
+                140.875463,-17.369069,0
+                140.215245,-17.710805,0
+                139.260575,-17.371601,0
+                139.108543,-17.062679,0
+                138.585164,-16.806622,0
+                138.303217,-16.807604,0
+                137.06536,-15.870762,0
+                136.295175,-15.550265,0
+                135.500184,-14.997741,0
+                135.428664,-14.715432,0
+                136.077617,-13.724278,0
+                135.961758,-13.324509,0
+                136.305407,-13.29123,0
+                136.685125,-12.887223,0
+                136.95162,-12.351959,0
+                136.492475,-11.857209,0
+                136.258381,-12.049342,0
+                135.882693,-11.962267,0
+                135.298491,-12.248606,0
+                134.678632,-11.941183,0
+                134.393068,-12.042365,0
+                133.550846,-11.786515,0
+                133.019561,-11.376411,0
+                132.357224,-11.128519,0
+                131.824698,-11.273782,0
+                132.557212,-11.603012,0
+                132.575298,-12.114041,0
+                131.735091,-12.302453,0
+                131.223495,-12.183649,0
+                130.617795,-12.536392,0
+                130.183506,-13.10752,0
+                130.339466,-13.357376,0
+                129.888641,-13.618703,0
+                129.4096,-14.42067,0
+                129.621473,-14.969784,0
+                128.35969,-14.86917,0
+                127.804633,-14.276906,0
+                127.065867,-13.817968,0
+                126.142823,-14.095987,0
+                126.125149,-14.347341,0
+                125.685796,-14.230656,0
+                125.670087,-14.51007,0
+                125.167275,-14.680396,0
+                124.926153,-15.0751,0
+                124.379726,-15.56706,0
+                124.258287,-16.327944,0
+                123.817073,-16.111316,0
+                123.503242,-16.596506,0
+                123.859345,-17.069035,0
+                123.433789,-17.268558,0
+                123.012574,-16.4052,0
+                122.312772,-17.254967,0
+                122.241665,-18.197649,0
+                121.655138,-18.705318,0
+                121.399856,-19.239756,0
+                120.85622,-19.683708,0
+                119.805225,-19.976506,0
+                119.252494,-19.952942,0
+                118.836085,-20.263311,0
+                118.229559,-20.374208,0
+                117.441545,-20.746899,0
+                117.166316,-20.623599,0
+                116.711615,-20.701682,0
+                115.947373,-21.068688,0
+                115.460167,-21.495173,0
+                114.647762,-21.82952,0
+                114.225307,-22.517488,0
+                114.149756,-21.755881,0
+                113.736552,-22.475475,0
+                113.843418,-23.059987,0
+                113.706993,-23.560215,0
+                113.502044,-23.80635,0
+                113.393523,-24.384764,0
+                114.216161,-25.786281,0
+                114.232852,-26.298446,0
+                113.936901,-25.911235,0
+                113.440962,-25.621278,0
+                113.778358,-26.549025,0
+                113.338953,-26.116545,0
+                113.477498,-26.543134,0
+                114.048884,-27.334765,0
+                114.173579,-28.118077,0
+                114.616498,-28.516399,0
+                114.641974,-28.810231,0
+                115.040038,-29.461095,0
+                114.997043,-30.030725,0
+                115.160909,-30.601594,0
+                115.689611,-31.612437,0
+                115.801645,-32.205062,0
+                115.679379,-32.900369,0
+                115.714674,-33.259572,0
+                115.545123,-33.487258,0
+                115.048616,-33.623425,0
+                115.026809,-34.196517,0
+                115.564347,-34.386428,0
+                116.625109,-35.025097,0
+                118.024972,-35.064733,0
+                119.007341,-34.464149,0
+                119.298899,-34.509366,0
+                119.893695,-33.976065,0
+                121.299191,-33.821036,0
+                122.183064,-34.003402,0
+                123.659667,-33.890179,0
+                124.028947,-33.483847,0
+                124.221648,-32.959487,0
+                125.088623,-32.728751,0
+                126.148714,-32.215966,0
+                127.102867,-32.282267,0
+                129.535794,-31.590423,0
+                131.326331,-31.495803,0
+                132.288081,-31.982647,0
+                132.990777,-32.011224,0
+                134.273903,-32.617234,0
+                134.085904,-32.848072,0
+                134.613417,-33.222778,0
+                135.239218,-33.947953,0
+                135.208213,-34.47867,0
+                135.989043,-34.890118,0
+                136.372069,-34.094766,0
+                136.996837,-33.752771,0
+                137.810328,-32.900007,0
+                137.890116,-33.640479,0
+                137.503886,-34.130268,0
+                137.352371,-34.707339,0
+                136.829406,-35.260535,0
+                137.71917,-35.076825,0
+                138.207564,-34.384723,0
+                138.449462,-35.127261,0
+                138.120748,-35.612296,0
+                139.082808,-35.732754,0
+                139.574148,-36.138362,0
+                139.806588,-36.643603,0
+                139.992158,-37.402936,0
+                140.638579,-38.019333,0
+                141.606582,-38.308514,0
+                142.17833,-38.380034,0
+                143.609974,-38.809465,0
+                144.485682,-38.085324,0
+                145.032212,-37.896188,0
+                144.876976,-38.417448,0
+                145.489652,-38.593768,0
+                146.317922,-39.035757,0
+                147.381733,-38.219217,0
+                148.304622,-37.809061,0
+                149.423882,-37.772681,0
+                149.997284,-37.425261,0
+                149.946124,-37.109052,0
+                150.075212,-36.420206,0
+                150.32822,-35.671879,0
+                150.714139,-35.17346,0
+                151.010555,-34.31036,0
+                151.343972,-33.816023,0
+                151.709117,-33.041342,0
+                152.450002,-32.550003,0
+                152.891578,-31.640446,0
+                153.089602,-30.923642,0
+                153.069241,-30.35024,0
+                153.512108,-28.995077,0
+                153.569469,-28.110067,0
+                153.092909,-27.2603,0
+                153.136162,-26.071173,0
+                152.855197,-25.267501,0
+                152.07354,-24.457887,0
+                150.899554,-23.462237,0
+                150.727265,-22.402405,0
+                150.482939,-22.556142,0
+                150.077382,-22.122784,0
+                149.678337,-22.342512,0
+                149.28942,-21.260511,0
+                148.717465,-20.633469,0
+                148.848414,-20.39121,0
+                147.471082,-19.480723,0
+                146.387478,-18.958274,0
+                146.063674,-18.280073,0
+                146.160309,-17.761655,0
+                145.888904,-16.906926,0
+                145.637033,-16.784918,0
+                145.271991,-15.428205,0
+                145.374724,-14.984976,0
+                144.894908,-14.594458,0
+                144.563714,-14.171176,0
+                143.922099,-14.548311,0
+                143.561811,-13.763656,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Brazil</name>
+      <description><![CDATA[Project Name: Transition Leadership Program<br>Project Goals: Share expertise and resources about transition education and<br>inclusive postsecondary education, with a focus on intellectual and<br>developmental disabilities (IDD)<br>Project Link: <br>Partners: Dr. Annie Gomes Redig, Rio de Janeiro State University<br>Project Activity: - Learn and exchange practices specifically relating to family engagement, inclusive higher education, and preparing professionals, including special educators and rehabilitation counselors, to provide transition services<br>- Integrate transition practices into Rio de Janeiro State University master’s degree program for teachers<br>- Develop four free training modules for teachers focused on postsecondary planning for students with IDD in Brazil<br>- Conduct a pilot enrolling 11 students with IDD in Rio de Janeiro State University classes<br><br>Funders: Currently seeking funding<br>Project Years: <br>Contract: <br>Latitude: -14.235<br>Longitude: -51.925<br>Geocode: br_rj]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Project Name">
+          <value>Transition Leadership Program</value>
+        </Data>
+        <Data name="Project Goals">
+          <value>Share expertise and resources about transition education and
+inclusive postsecondary education, with a focus on intellectual and
+developmental disabilities (IDD)</value>
+        </Data>
+        <Data name="Project Link">
+          <value/>
+        </Data>
+        <Data name="Partners">
+          <value>Dr. Annie Gomes Redig, Rio de Janeiro State University</value>
+        </Data>
+        <Data name="Project Activity">
+          <value>- Learn and exchange practices specifically relating to family engagement, inclusive higher education, and preparing professionals, including special educators and rehabilitation counselors, to provide transition services
+- Integrate transition practices into Rio de Janeiro State University master’s degree program for teachers
+- Develop four free training modules for teachers focused on postsecondary planning for students with IDD in Brazil
+- Conduct a pilot enrolling 11 students with IDD in Rio de Janeiro State University classes
+</value>
+        </Data>
+        <Data name="Funders">
+          <value>Currently seeking funding</value>
+        </Data>
+        <Data name="Project Years">
+          <value/>
+        </Data>
+        <Data name="Contract">
+          <value/>
+        </Data>
+        <Data name="Latitude">
+          <value>-14.235004</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-51.92528</value>
+        </Data>
+        <Data name="Geocode">
+          <value>br_rj</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -57.625133,-30.216295,0
+              -56.976026,-30.109686,0
+              -55.973245,-30.883076,0
+              -55.60151,-30.853879,0
+              -54.572452,-31.494511,0
+              -53.787952,-32.047243,0
+              -53.209589,-32.727666,0
+              -53.650544,-33.202004,0
+              -53.373662,-33.768378,0
+              -52.7121,-33.196578,0
+              -52.256081,-32.24537,0
+              -51.576226,-31.777698,0
+              -50.696874,-30.984465,0
+              -49.587329,-29.224469,0
+              -48.888457,-28.674115,0
+              -48.66152,-28.186135,0
+              -48.474736,-27.175912,0
+              -48.641005,-26.623698,0
+              -48.495458,-25.877025,0
+              -47.648972,-24.885199,0
+              -46.472093,-24.088969,0
+              -45.352136,-23.796842,0
+              -44.647812,-23.351959,0
+              -43.074704,-22.967693,0
+              -41.988284,-22.97007,0
+              -41.754164,-22.370676,0
+              -40.944756,-21.937317,0
+              -40.774741,-20.904512,0
+              -39.760823,-19.599113,0
+              -39.583521,-18.262296,0
+              -39.267339,-17.867746,0
+              -39.161092,-17.208407,0
+              -38.882298,-15.667054,0
+              -38.953276,-13.79337,0
+              -38.673887,-13.057652,0
+              -38.423877,-13.038119,0
+              -37.683612,-12.171195,0
+              -37.046519,-11.040721,0
+              -35.636967,-9.649282,0
+              -35.128212,-8.996401,0
+              -34.729993,-7.343221,0
+              -35.235389,-5.464937,0
+              -35.597796,-5.149504,0
+              -36.452937,-5.109404,0
+              -37.223252,-4.820946,0
+              -38.500383,-3.700652,0
+              -39.978665,-2.873054,0
+              -41.472657,-2.912018,0
+              -43.418791,-2.38311,0
+              -44.581589,-2.691308,0
+              -44.417619,-2.13775,0
+              -44.905703,-1.55174,0
+              -46.566584,-0.941028,0
+              -47.824956,-0.581618,0
+              -48.584497,-1.237805,0
+              -48.620567,-0.235489,0
+              -50.388211,-0.078445,0
+              -50.699251,0.222984,0
+              -49.947101,1.04619,0
+              -49.974076,1.736483,0
+              -50.508875,1.901564,0
+              -51.069771,3.650398,0
+              -51.317146,4.203491,0
+              -51.657797,4.156232,0
+              -52.249338,3.241094,0
+              -52.556425,2.504705,0
+              -52.939657,2.124858,0
+              -53.418465,2.053389,0
+              -53.554839,2.334897,0
+              -53.778521,2.376703,0
+              -54.088063,2.105557,0
+              -54.524754,2.311849,0
+              -55.097587,2.523748,0
+              -55.569755,2.421506,0
+              -55.973322,2.510364,0
+              -56.073342,2.220795,0
+              -55.9056,2.021996,0
+              -55.995698,1.817667,0
+              -56.539386,1.899523,0
+              -56.782704,1.863711,0
+              -57.335823,1.948538,0
+              -57.660971,1.682585,0
+              -58.11345,1.507195,0
+              -58.429477,1.463942,0
+              -58.540013,1.268088,0
+              -59.030862,1.317698,0
+              -59.646044,1.786894,0
+              -59.718546,2.24963,0
+              -59.974525,2.755233,0
+              -59.815413,3.606499,0
+              -59.53804,3.958803,0
+              -59.767406,4.423503,0
+              -60.111002,4.574967,0
+              -59.980959,5.014061,0
+              -60.213683,5.244486,0
+              -60.733574,5.200277,0
+              -60.601179,4.918098,0
+              -60.966893,4.536468,0
+              -62.08543,4.162124,0
+              -62.804533,4.006965,0
+              -63.093198,3.770571,0
+              -63.888343,4.02053,0
+              -64.628659,4.148481,0
+              -64.816064,4.056445,0
+              -64.368494,3.79721,0
+              -64.408828,3.126786,0
+              -64.269999,2.497006,0
+              -63.422867,2.411068,0
+              -63.368788,2.2009,0
+              -64.083085,1.916369,0
+              -64.199306,1.492855,0
+              -64.611012,1.328731,0
+              -65.354713,1.095282,0
+              -65.548267,0.789254,0
+              -66.325765,0.724452,0
+              -66.876326,1.253361,0
+              -67.065048,1.130112,0
+              -67.259998,1.719999,0
+              -67.53781,2.037163,0
+              -67.868565,1.692455,0
+              -69.816973,1.714805,0
+              -69.804597,1.089081,0
+              -69.218638,0.985677,0
+              -69.252434,0.602651,0
+              -69.452396,0.706159,0
+              -70.015566,0.541414,0
+              -70.020656,-0.185156,0
+              -69.577065,-0.549992,0
+              -69.420486,-1.122619,0
+              -69.444102,-1.556287,0
+              -69.893635,-4.298187,0
+              -70.794769,-4.251265,0
+              -70.928843,-4.401591,0
+              -71.748406,-4.593983,0
+              -72.891928,-5.274561,0
+              -72.964507,-5.741251,0
+              -73.219711,-6.089189,0
+              -73.120027,-6.629931,0
+              -73.724487,-6.918595,0
+              -73.723401,-7.340999,0
+              -73.987235,-7.52383,0
+              -73.571059,-8.424447,0
+              -73.015383,-9.032833,0
+              -73.226713,-9.462213,0
+              -72.563033,-9.520194,0
+              -72.184891,-10.053598,0
+              -71.302412,-10.079436,0
+              -70.481894,-9.490118,0
+              -70.548686,-11.009147,0
+              -70.093752,-11.123972,0
+              -69.529678,-10.951734,0
+              -68.786158,-11.03638,0
+              -68.271254,-11.014521,0
+              -68.048192,-10.712059,0
+              -67.173801,-10.306812,0
+              -66.646908,-9.931331,0
+              -65.338435,-9.761988,0
+              -65.444837,-10.511451,0
+              -65.321899,-10.895872,0
+              -65.402281,-11.56627,0
+              -64.316353,-12.461978,0
+              -63.196499,-12.627033,0
+              -62.80306,-13.000653,0
+              -62.127081,-13.198781,0
+              -61.713204,-13.489202,0
+              -61.084121,-13.479384,0
+              -60.503304,-13.775955,0
+              -60.459198,-14.354007,0
+              -60.264326,-14.645979,0
+              -60.251149,-15.077219,0
+              -60.542966,-15.09391,0
+              -60.15839,-16.258284,0
+              -58.24122,-16.299573,0
+              -58.388058,-16.877109,0
+              -58.280804,-17.27171,0
+              -57.734558,-17.552468,0
+              -57.498371,-18.174188,0
+              -57.676009,-18.96184,0
+              -57.949997,-19.400004,0
+              -57.853802,-19.969995,0
+              -58.166392,-20.176701,0
+              -57.870674,-20.732688,0
+              -57.937156,-22.090176,0
+              -56.88151,-22.282154,0
+              -56.473317,-22.0863,0
+              -55.797958,-22.35693,0
+              -55.610683,-22.655619,0
+              -55.517639,-23.571998,0
+              -55.400747,-23.956935,0
+              -55.027902,-24.001274,0
+              -54.652834,-23.839578,0
+              -54.29296,-24.021014,0
+              -54.293476,-24.5708,0
+              -54.428946,-25.162185,0
+              -54.625291,-25.739255,0
+              -54.13005,-25.547639,0
+              -53.628349,-26.124865,0
+              -53.648735,-26.923473,0
+              -55.162286,-27.881915,0
+              -56.2909,-28.852761,0
+              -57.625133,-30.216295,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Ireland</name>
+      <description><![CDATA[Project Name: Participatory Action Research: Defining Accessibility in the <br>Lives of People with Intellectual Disabilities: A Tapestry of Voices<br>Project Goals: Learn people with intellectual and developmental disabilities’<br>(IDD) perspectives on the meaning of (disability) access as interpreted by<br>the Convention on The Rights Of Persons With Disabilities <br>Project Link: <br>Partners: Dr. Fintan Sheerin, Associate Professor, School of Nursing &<br>Midwifery, the Head of School, School Office in Nursing & Midwifery, Trinity<br>College Dublin; Dr. Annie Gomes Redig, Rio de Janeiro State University; Kerry<br>Watson, Senior Inclusion Manager, Council for Intellectual Disability<br>Project Activity: - Develop and pilot ‘quilting,’ a Participatory Action Research method<br>(Dr. Sheerin)<br>- Incorporate findings into a book chapter for “Leadership for Disability<br>Service: Motivating Change and Improvement”, co-authored with ICI<br>Think College director Debra Hart and student/advocate Maximo<br>Pimentel on inclusive policies that drive practices in postsecondary<br>education in Massachusetts (Dr. Paiewonsky)<br>- Co-author a book chapter for a book titled ‘Intellectual Disabilities:<br>Health and Social Care Across the Lifespan’ (Dr. Paiewonsky)<br>Funders: <br>Project Years: <br>Contract: <br>Latitude: 53.413<br>Longitude: -8.244<br>Geocode: ie_du]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Project Name">
+          <value>Participatory Action Research: Defining Accessibility in the 
+Lives of People with Intellectual Disabilities: A Tapestry of Voices</value>
+        </Data>
+        <Data name="Project Goals">
+          <value>Learn people with intellectual and developmental disabilities’
+(IDD) perspectives on the meaning of (disability) access as interpreted by
+the Convention on The Rights Of Persons With Disabilities </value>
+        </Data>
+        <Data name="Project Link">
+          <value/>
+        </Data>
+        <Data name="Partners">
+          <value><![CDATA[Dr. Fintan Sheerin, Associate Professor, School of Nursing &
+Midwifery, the Head of School, School Office in Nursing & Midwifery, Trinity
+College Dublin; Dr. Annie Gomes Redig, Rio de Janeiro State University; Kerry
+Watson, Senior Inclusion Manager, Council for Intellectual Disability]]></value>
+        </Data>
+        <Data name="Project Activity">
+          <value>- Develop and pilot ‘quilting,’ a Participatory Action Research method
+(Dr. Sheerin)
+- Incorporate findings into a book chapter for “Leadership for Disability
+Service: Motivating Change and Improvement”, co-authored with ICI
+Think College director Debra Hart and student/advocate Maximo
+Pimentel on inclusive policies that drive practices in postsecondary
+education in Massachusetts (Dr. Paiewonsky)
+- Co-author a book chapter for a book titled ‘Intellectual Disabilities:
+Health and Social Care Across the Lifespan’ (Dr. Paiewonsky)</value>
+        </Data>
+        <Data name="Funders">
+          <value/>
+        </Data>
+        <Data name="Project Years">
+          <value/>
+        </Data>
+        <Data name="Contract">
+          <value/>
+        </Data>
+        <Data name="Latitude">
+          <value>53.41291</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-8.24389</value>
+        </Data>
+        <Data name="Geocode">
+          <value>ie_du</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -6.197885,53.867565,0
+              -6.95373,54.073702,0
+              -7.572168,54.059956,0
+              -7.366031,54.595841,0
+              -7.572168,55.131622,0
+              -8.327987,54.664519,0
+              -9.688525,53.881363,0
+              -9.166283,52.864629,0
+              -9.977086,51.820455,0
+              -8.561617,51.669301,0
+              -6.788857,52.260118,0
+              -6.032985,53.153164,0
+              -6.197885,53.867565,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Netherlands</name>
+      <description><![CDATA[Project Name: Calming Together<br>Project Goals: - Advance understanding of parent-child interaction and co-regulation<br>- Advance understanding of how D/deaf and hearing parents/caregivers<br>ease their D/deaf or hard of hearing children’s stress or irritation<br>Project Link: <br>Partners: Dr. Evelien Dierks (PI), Senior Researcher, Dutch Foundation for<br>the Deaf and Hard of Hearing Child (NSDSK)<br>Project Activity: - Collect observational data in participant families’ homes using 360-<br>degree cameras<br>- Measure how parents/caregivers and children co-regulate sleep<br>- Modify an existing tool to capture important aspects of parent-child<br>interaction<br>- Validate this tool’s use in parent/child dyads in which either parents or<br>children or both are D/deaf or hard of hearing<br>Funders: <br>Project Years: 2023-2026<br>Contract: <br>Latitude: 52.133<br>Longitude: 5.291<br>Geocode: nl_am]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Project Name">
+          <value>Calming Together</value>
+        </Data>
+        <Data name="Project Goals">
+          <value>- Advance understanding of parent-child interaction and co-regulation
+- Advance understanding of how D/deaf and hearing parents/caregivers
+ease their D/deaf or hard of hearing children’s stress or irritation</value>
+        </Data>
+        <Data name="Project Link">
+          <value/>
+        </Data>
+        <Data name="Partners">
+          <value>Dr. Evelien Dierks (PI), Senior Researcher, Dutch Foundation for
+the Deaf and Hard of Hearing Child (NSDSK)</value>
+        </Data>
+        <Data name="Project Activity">
+          <value>- Collect observational data in participant families’ homes using 360-
+degree cameras
+- Measure how parents/caregivers and children co-regulate sleep
+- Modify an existing tool to capture important aspects of parent-child
+interaction
+- Validate this tool’s use in parent/child dyads in which either parents or
+children or both are D/deaf or hard of hearing</value>
+        </Data>
+        <Data name="Funders">
+          <value/>
+        </Data>
+        <Data name="Project Years">
+          <value>2023-2026</value>
+        </Data>
+        <Data name="Contract">
+          <value/>
+        </Data>
+        <Data name="Latitude">
+          <value>52.132633</value>
+        </Data>
+        <Data name="Longitude">
+          <value>5.291266</value>
+        </Data>
+        <Data name="Geocode">
+          <value>nl_am</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              6.074183,53.510403,0
+              4.705997,53.091798,0
+              3.830289,51.620545,0
+              3.314971,51.345755,0
+              4.047071,51.267259,0
+              4.973991,51.475024,0
+              5.606976,51.037298,0
+              6.156658,50.803721,0
+              5.988658,51.851616,0
+              6.589397,51.852029,0
+              6.84287,52.22844,0
+              7.092053,53.144043,0
+              6.90514,53.482162,0
+              6.074183,53.510403,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>United Kingdom</name>
+      <description><![CDATA[Project Name: Recording Emerging Adulthood in Deaf Youth (READY Study)<br>Project Goals: Understand the experiences of 16–23-year-old D/deaf youth<br>as they navigate/plan their transition to adulthood<br>Project Link: https://sites.manchester.ac.uk/thereadystudy/<br>Partners: Professor Alys Young, University of Manchester’s Social Research<br>with Deaf People group (SORD), University of Edinburgh’s Scottish Sensory Centre<br>Project Activity: - Explore what kinds of decisions youth make and why, what barriers<br>they face and how they navigate these barriers, what services and<br>supports they find useful during/for the transition, and how they find<br>happiness and balance in life<br>Funders: National Deaf Children’s Society (NDCS)<br>Project Years: <br>Contract: <br>Latitude: 55.378<br>Longitude: -3.436<br>Geocode: uk_ldn]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Project Name">
+          <value>Recording Emerging Adulthood in Deaf Youth (READY Study)</value>
+        </Data>
+        <Data name="Project Goals">
+          <value>Understand the experiences of 16–23-year-old D/deaf youth
+as they navigate/plan their transition to adulthood</value>
+        </Data>
+        <Data name="Project Link">
+          <value>https://sites.manchester.ac.uk/thereadystudy/</value>
+        </Data>
+        <Data name="Partners">
+          <value>Professor Alys Young, University of Manchester’s Social Research
+with Deaf People group (SORD), University of Edinburgh’s Scottish Sensory Centre</value>
+        </Data>
+        <Data name="Project Activity">
+          <value>- Explore what kinds of decisions youth make and why, what barriers
+they face and how they navigate these barriers, what services and
+supports they find useful during/for the transition, and how they find
+happiness and balance in life</value>
+        </Data>
+        <Data name="Funders">
+          <value>National Deaf Children’s Society (NDCS)</value>
+        </Data>
+        <Data name="Project Years">
+          <value/>
+        </Data>
+        <Data name="Contract">
+          <value/>
+        </Data>
+        <Data name="Latitude">
+          <value>55.378051</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-3.435973</value>
+        </Data>
+        <Data name="Geocode">
+          <value>uk_ldn</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -5.661949,54.554603,0
+                -6.733847,55.17286,0
+                -7.572168,55.131622,0
+                -7.366031,54.595841,0
+                -7.572168,54.059956,0
+                -6.95373,54.073702,0
+                -6.197885,53.867565,0
+                -5.661949,54.554603,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -3.005005,58.635,0
+                -4.211495,58.550845,0
+                -5.009999,58.630013,0
+                -5.786825,57.818848,0
+                -6.149981,56.78501,0
+                -5.644999,56.275015,0
+                -5.586398,55.311146,0
+                -5.047981,55.783986,0
+                -4.719112,55.508473,0
+                -5.082527,55.061601,0
+                -4.844169,54.790971,0
+                -3.630005,54.615013,0
+                -3.614701,54.600937,0
+                -2.945009,53.985,0
+                -3.09208,53.404441,0
+                -3.093831,53.404547,0
+                -4.579999,53.495004,0
+                -4.770013,52.840005,0
+                -4.222347,52.301356,0
+                -5.267296,51.9914,0
+                -4.984367,51.593466,0
+                -3.422719,51.426848,0
+                -3.414851,51.426009,0
+                -4.30999,51.210001,0
+                -5.776567,50.159678,0
+                -5.245023,49.96,0
+                -4.542508,50.341837,0
+                -3.617448,50.228356,0
+                -2.956274,50.69688,0
+                -2.489998,50.500019,0
+                -0.787517,50.774989,0
+                0.550334,50.765739,0
+                1.449865,51.289428,0
+                1.050562,51.806761,0
+                1.559988,52.099998,0
+                1.681531,52.73952,0
+                0.469977,52.929999,0
+                0.184981,53.325014,0
+                -0.430485,54.464376,0
+                -1.114991,54.624986,0
+                -2.005676,55.804903,0
+                -2.085009,55.909998,0
+                -3.119003,55.973793,0
+                -2.219988,56.870017,0
+                -1.959281,57.6848,0
+                -3.055002,57.690019,0
+                -4.073828,57.553025,0
+                -3.005005,58.635,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>United States</name>
+      <description><![CDATA[Project Name: Deaf with Disabilities, a book about Deaf and disabilities <br>issues<br>Project Goals: Co-edit the forthcoming book Deaf with Disabilities,<br>unpacking and highlighting the complexities involved in looking at both Deaf<br>and disabilities issues<br>Project Link: <br>Partners: Dr. Shipla Hanumantha Lacy, Gallaudet University <br>Project Activity: - Numerous international researchers, Deaf individuals, and scholars<br>from diverse backgrounds will contribute to book chapters about this<br>topic<br>Funders: <br>Project Years: 2023<br>Contract: Oxford University Press<br>Latitude: 37.09<br>Longitude: -95.713<br>Geocode: us_sf]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Project Name">
+          <value>Deaf with Disabilities, a book about Deaf and disabilities 
+issues</value>
+        </Data>
+        <Data name="Project Goals">
+          <value>Co-edit the forthcoming book Deaf with Disabilities,
+unpacking and highlighting the complexities involved in looking at both Deaf
+and disabilities issues</value>
+        </Data>
+        <Data name="Project Link">
+          <value/>
+        </Data>
+        <Data name="Partners">
+          <value>Dr. Shipla Hanumantha Lacy, Gallaudet University </value>
+        </Data>
+        <Data name="Project Activity">
+          <value>- Numerous international researchers, Deaf individuals, and scholars
+from diverse backgrounds will contribute to book chapters about this
+topic</value>
+        </Data>
+        <Data name="Funders">
+          <value/>
+        </Data>
+        <Data name="Project Years">
+          <value>2023</value>
+        </Data>
+        <Data name="Contract">
+          <value>Oxford University Press</value>
+        </Data>
+        <Data name="Latitude">
+          <value>37.09024</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-95.712891</value>
+        </Data>
+        <Data name="Geocode">
+          <value>us_sf</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -155.54211,19.08348,0
+                -155.22217,19.23972,0
+                -154.83147,19.45328,0
+                -154.80741,19.50871,0
+                -155.06226,19.8591,0
+                -155.22452,19.99302,0
+                -155.40214,20.07975,0
+                -155.78505,20.2487,0
+                -155.86108,20.26721,0
+                -155.91907,20.17395,0
+                -155.85008,19.97729,0
+                -156.02368,19.81422,0
+                -156.07347,19.70294,0
+                -155.90806,19.33888,0
+                -155.93665,19.05939,0
+                -155.68817,18.91619,0
+                -155.54211,19.08348,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -156.07926,20.64397,0
+                -155.99566,20.76404,0
+                -156.25711,20.91745,0
+                -156.61258,21.01249,0
+                -156.71055,20.92676,0
+                -156.70167,20.8643,0
+                -156.58673,20.783,0
+                -156.41445,20.57241,0
+                -156.07926,20.64397,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -156.75824,21.17684,0
+                -157.25027,21.21958,0
+                -157.32521,21.09777,0
+                -156.78933,21.06873,0
+                -156.75824,21.17684,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -157.65283,21.32217,0
+                -157.94161,21.65272,0
+                -158.0252,21.71696,0
+                -158.29265,21.57912,0
+                -158.2538,21.53919,0
+                -158.12667,21.31244,0
+                -157.7786,21.27729,0
+                -157.70703,21.26442,0
+                -157.65283,21.32217,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -159.34512,21.982,0
+                -159.36569,22.21494,0
+                -159.5962,22.23618,0
+                -159.74877,22.1382,0
+                -159.80051,22.06533,0
+                -159.46372,21.88299,0
+                -159.34512,21.982,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -94.81758,49.38905,0
+                -95.15609,49.38425,0
+                -95.15907,49,0
+                -97.22872,49.0007,0
+                -100.65,49,0
+                -104.04826,48.99986,0
+                -107.05,49,0
+                -110.05,49,0
+                -113,49,0
+                -116.04818,49,0
+                -120,49,0
+                -122.84,49,0
+                -122.5,48.18,0
+                -122.34,47.36,0
+                -122.58736,47.096,0
+                -123.12,48.04,0
+                -124.566101,48.379715,0
+                -124.68721,48.184433,0
+                -124.39567,47.72017,0
+                -124.079635,46.86475,0
+                -123.89893,45.52341,0
+                -124.14214,43.70838,0
+                -124.53284,42.76599,0
+                -124.2137,41.99964,0
+                -124.17886,41.14202,0
+                -124.39807,40.3132,0
+                -123.86517,39.76699,0
+                -123.7272,38.95166,0
+                -122.95319,38.11371,0
+                -122.51201,37.78339,0
+                -122.54747,37.55176,0
+                -121.71457,36.16153,0
+                -120.74433,35.15686,0
+                -120.62286,34.60855,0
+                -120.36778,34.44711,0
+                -119.438841,34.348477,0
+                -119.081,34.078,0
+                -118.519895,34.027782,0
+                -118.410602,33.740909,0
+                -117.944,33.621236,0
+                -117.295938,33.046225,0
+                -117.12776,32.53534,0
+                -114.72139,32.72083,0
+                -114.815,32.52528,0
+                -113.30498,32.03914,0
+                -111.02361,31.33472,0
+                -108.24194,31.34222,0
+                -108.24,31.754854,0
+                -106.50759,31.75452,0
+                -106.1429,31.39995,0
+                -105.03737,30.64402,0
+                -104.70575,30.12173,0
+                -104.45697,29.57196,0
+                -103.94,29.27,0
+                -103.11,28.97,0
+                -102.48,29.76,0
+                -101.6624,29.7793,0
+                -100.9576,29.38071,0
+                -100.45584,28.69612,0
+                -100.11,28.11,0
+                -99.52,27.54,0
+                -99.3,26.84,0
+                -99.02,26.37,0
+                -98.24,26.06,0
+                -97.53,25.84,0
+                -97.14,25.87,0
+                -97.33,26.21,0
+                -97.37,27.38,0
+                -97.14,27.83,0
+                -96.59404,28.30748,0
+                -95.60026,28.73863,0
+                -94.69,29.48,0
+                -93.84842,29.71363,0
+                -93.22637,29.78375,0
+                -92.49906,29.5523,0
+                -91.626785,29.677,0
+                -90.880225,29.148535,0
+                -90.15463,29.11743,0
+                -89.77928,29.30714,0
+                -89.40823,29.15961,0
+                -89.21767,29.29108,0
+                -89.43,29.48864,0
+                -89.413735,29.89419,0
+                -89.593831,30.159994,0
+                -89.18049,30.31598,0
+                -88.41782,30.3849,0
+                -87.53036,30.27433,0
+                -86.4,30.4,0
+                -85.7731,30.15261,0
+                -85.28784,29.68612,0
+                -85.10882,29.63615,0
+                -84.1,30.09,0
+                -83.70959,29.93656,0
+                -82.93,29.1,0
+                -82.65,28.55,0
+                -82.85526,27.88624,0
+                -82.70515,27.49504,0
+                -81.71,25.87,0
+                -81.33,25.64,0
+                -81.17213,25.20126,0
+                -80.68,25.08,0
+                -80.38103,25.20616,0
+                -80.13156,25.816775,0
+                -80.056539,26.88,0
+                -80.53,28.04,0
+                -80.535585,28.47213,0
+                -80.98,29.18,0
+                -81.31371,30.03552,0
+                -81.49042,30.72999,0
+                -81.33629,31.44049,0
+                -80.86498,32.0333,0
+                -80.301325,32.509355,0
+                -79.20357,33.15839,0
+                -79.06067,33.49395,0
+                -78.55435,33.86133,0
+                -78.05496,33.92547,0
+                -77.397635,34.51201,0
+                -76.36318,34.80854,0
+                -75.72749,35.55074,0
+                -75.9718,36.89726,0
+                -76.25874,36.9664,0
+                -76.30162,37.917945,0
+                -76.989998,38.239992,0
+                -76.32933,38.08326,0
+                -76.542725,38.717615,0
+                -76.35,39.15,0
+                -76.23287,38.319215,0
+                -75.72205,37.93705,0
+                -76.03127,37.2566,0
+                -75.94023,37.21689,0
+                -75.05673,38.40412,0
+                -75.071835,38.782032,0
+                -75.32,38.96,0
+                -75.52805,39.4985,0
+                -74.98041,39.1964,0
+                -74.90604,38.93954,0
+                -74.17838,39.70926,0
+                -73.96244,40.42763,0
+                -74.25671,40.47351,0
+                -73.982,40.628,0
+                -73.345,40.63,0
+                -71.945,40.93,0
+                -72.24126,41.11948,0
+                -73.71,40.931102,0
+                -72.87643,41.22065,0
+                -71.86,41.32,0
+                -71.12039,41.49445,0
+                -70.64,41.475,0
+                -69.96503,41.63717,0
+                -69.88497,41.92283,0
+                -70.185,42.145,0
+                -70.08,41.78,0
+                -70.495,41.805,0
+                -70.825,42.335,0
+                -70.81489,42.8653,0
+                -70.11617,43.68405,0
+                -69.06,43.98,0
+                -68.03252,44.3252,0
+                -66.96466,44.8097,0
+                -67.13741,45.13753,0
+                -67.79134,45.70281,0
+                -67.79046,47.06636,0
+                -68.23444,47.35486,0
+                -68.905,47.185,0
+                -69.237216,47.447781,0
+                -69.99997,46.69307,0
+                -70.305,45.915,0
+                -70.66,45.46,0
+                -71.405,45.255,0
+                -71.50506,45.0082,0
+                -74.867,45.00048,0
+                -75.31821,44.81645,0
+                -76.5,44.018459,0
+                -76.820034,43.628784,0
+                -78.72028,43.625089,0
+                -79.171674,43.466339,0
+                -78.939362,42.863611,0
+                -80.247448,42.3662,0
+                -81.277747,42.209026,0
+                -82.439278,41.675105,0
+                -83.02981,41.832796,0
+                -83.12,42.08,0
+                -82.43,42.98,0
+                -82.137642,43.571088,0
+                -82.550925,45.347517,0
+                -83.592851,45.816894,0
+                -83.469551,45.994686,0
+                -83.890765,46.116927,0
+                -84.14212,46.512226,0
+                -84.3367,46.40877,0
+                -84.779238,46.637102,0
+                -84.87608,46.900083,0
+                -88.378114,48.302918,0
+                -89.272917,48.019808,0
+                -89.6,48.01,0
+                -90.83,48.27,0
+                -91.64,48.14,0
+                -92.61,48.45,0
+                -94.32914,48.67074,0
+                -94.64,48.84,0
+                -94.81758,49.38905,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -153.006314,57.115842,0
+                -152.141147,57.591059,0
+                -152.564791,57.901427,0
+                -153.228729,57.968968,0
+                -153.76278,57.816575,0
+                -154.670993,57.461196,0
+                -154.516403,56.992749,0
+                -154.00509,56.734677,0
+                -153.006314,57.115842,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -165.579164,59.909987,0
+                -165.67443,60.293607,0
+                -166.467792,60.38417,0
+                -167.455277,60.213069,0
+                -166.848337,59.941406,0
+                -166.19277,59.754441,0
+                -165.579164,59.909987,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -171.731657,63.782515,0
+                -171.791111,63.405846,0
+                -171.553063,63.317789,0
+                -170.671386,63.375822,0
+                -170.290556,63.194438,0
+                -169.52944,62.976931,0
+                -168.771941,63.188598,0
+                -168.689439,63.297506,0
+                -169.682505,63.431116,0
+                -170.491112,63.694975,0
+                -171.114434,63.592191,0
+                -171.731657,63.782515,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -155.06779,71.147776,0
+                -156.580825,71.357764,0
+                -158.119723,70.824721,0
+                -159.039176,70.891642,0
+                -160.934797,70.44769,0
+                -161.908897,70.33333,0
+                -162.930566,69.858062,0
+                -163.168614,69.371115,0
+                -164.430811,68.915535,0
+                -166.204707,68.883031,0
+                -166.764441,68.358877,0
+                -165.390287,68.042772,0
+                -164.430991,67.616338,0
+                -163.719717,67.116395,0
+                -162.489715,66.735565,0
+                -161.677774,66.11612,0
+                -163.788602,66.077207,0
+                -163.652512,66.57666,0
+                -164.47471,66.57666,0
+                -166.705271,66.088318,0
+                -168.11056,65.669997,0
+                -166.845004,65.088896,0
+                -166.425288,64.686672,0
+                -164.96083,64.446945,0
+                -163.546394,64.55916,0
+                -162.757786,64.338605,0
+                -162.45305,64.559445,0
+                -161.391926,64.777235,0
+                -160.777778,64.788604,0
+                -161.518068,64.402788,0
+                -160.958335,64.222799,0
+                -160.772507,63.766108,0
+                -161.53445,63.455817,0
+                -162.260555,63.541936,0
+                -163.067224,63.059459,0
+                -163.753332,63.219449,0
+                -164.562508,63.146378,0
+                -164.919179,62.633076,0
+                -165.734452,62.074997,0
+                -166.121379,61.500019,0
+                -165.350832,61.073895,0
+                -165.346388,60.507496,0
+                -164.662218,60.267484,0
+                -163.818341,59.798056,0
+                -162.518059,59.989724,0
+                -161.874171,59.633621,0
+                -162.054987,59.266925,0
+                -161.968894,58.671665,0
+                -161.355003,58.670838,0
+                -160.355271,59.071123,0
+                -159.981289,58.572549,0
+                -159.711667,58.93139,0
+                -159.058606,58.424186,0
+                -158.517218,58.787781,0
+                -158.194731,58.615802,0
+                -157.041675,58.918885,0
+                -157.550274,58.328326,0
+                -157.72277,57.570001,0
+                -158.461097,57.216921,0
+                -158.684443,57.016675,0
+                -160.07056,56.418055,0
+                -160.563605,56.008055,0
+                -161.804175,55.894986,0
+                -162.870001,55.348043,0
+                -163.84834,55.039431,0
+                -164.942226,54.572225,0
+                -164.785569,54.404173,0
+                -163.069447,54.689737,0
+                -162.237766,55.024187,0
+                -161.223048,55.364735,0
+                -160.28972,55.643581,0
+                -159.603327,55.566686,0
+                -158.433321,55.994154,0
+                -158.117217,56.463608,0
+                -156.556097,56.979985,0
+                -156.308335,57.422774,0
+                -155.307491,57.727795,0
+                -154.232492,58.146374,0
+                -153.287511,58.864728,0
+                -154.019172,59.350279,0
+                -152.57833,60.061657,0
+                -151.895839,60.727198,0
+                -150.621111,61.284425,0
+                -150.346941,61.033588,0
+                -151.409719,60.725803,0
+                -151.859433,59.744984,0
+                -151.716393,59.155821,0
+                -150.608243,59.368211,0
+                -149.727858,59.705658,0
+                -148.570823,59.914173,0
+                -148.018066,59.978329,0
+                -148.224306,60.672989,0
+                -147.114374,60.884656,0
+                -145.925557,60.45861,0
+                -143.958881,59.99918,0
+                -142.574444,60.084447,0
+                -140.825274,59.727517,0
+                -139.867787,59.537762,0
+                -137.800006,58.499995,0
+                -136.628062,58.212209,0
+                -135.038211,58.187715,0
+                -134.078063,58.123068,0
+                -133.539181,57.178887,0
+                -132.250011,56.369996,0
+                -131.967211,55.497776,0
+                -131.085818,55.178906,0
+                -130.53611,54.802753,0
+                -129.979994,55.284998,0
+                -130.00778,55.91583,0
+                -131.70781,56.55212,0
+                -132.73042,57.69289,0
+                -133.355549,58.410285,0
+                -134.27111,58.86111,0
+                -134.945,59.27056,0
+                -135.47583,59.78778,0
+                -136.47972,59.46389,0
+                -137.4525,58.905,0
+                -138.34089,59.56211,0
+                -139.039,60.000007,0
+                -140.012998,60.276838,0
+                -140.99777,60.306397,0
+                -140.992499,66.000029,0
+                -140.985988,69.711998,0
+                -142.07251,69.851938,0
+                -143.589446,70.152514,0
+                -144.920011,69.989992,0
+                -145.68999,70.12001,0
+                -147.613362,70.214035,0
+                -149.720003,70.53001,0
+                -150.739992,70.430017,0
+                -152.270002,70.600006,0
+                -152.210006,70.829992,0
+                -153.900006,70.889989,0
+                -154.344165,70.696409,0
+                -155.06779,71.147776,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
